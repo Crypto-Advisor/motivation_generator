@@ -1,6 +1,6 @@
 Mixed Messages Codecademy Project 1
 
-#Goal:#
+Goal:
 Platform where you write out your goals for the day and in response receive motivational text
 
 Frontend
