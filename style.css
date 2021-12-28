@@ -1,0 +1,24 @@
+#chatbox {
+    background: grey;
+    width: 50%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#messages{
+    background: white;
+    margin: 10px;
+    width: 80%;
+}
+
+#textentry{
+    
+
+}
+
+.mainText{
+    width: 80%;
+    height: 40px;
+}
