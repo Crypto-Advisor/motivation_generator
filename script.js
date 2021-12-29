@@ -1,8 +1,22 @@
 console.log('working!')
 
-var fs = require("fs");
+document.getElementById('submitmsg').onclick = function() {
+    console.log('wow')
+    var inputVal = document.getElementById('mainText').value;
+    var ul = document.getElementById('messageList');
+    var li = document.createElement('li');
+    li.appendChild(document.createTextNode(inputVal));
+    ul.appendChild(li);
+    quoteMessage();
+};
 
-var text = fs.readFileSync("./quotes.txt", "utf-8");
 
-console.log(text)
+function quoteMessage(){
+    console.log("randomquote")
+    var fr = new FileReader();
+    
+    var text = fr.readAsText("./quotes.txt");
 
+    console.log(text)
+
+}
