@@ -1,0 +1,56 @@
+{
+    "quotes":[
+        {
+            "text": "Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.",
+            "author": "Alan Kay"
+        },
+        {
+            "text": "Premature optimization is the root of all evil (or at least most of it) in programming.",
+            "author": "Donald Knuth"
+        },
+        {
+            "text": "Lisp has jokingly been called \"the most intelligent way to misuse a computer\". I think that description is a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.",
+            "author": "Edsger Dijkstra"
+        },
+        {
+            "text": "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.",
+            "author": "Mark Twain"
+        },
+        {
+            "text": "What Paul does, and does very well, is to take ideas and concepts that are beautiful in the abstract, and brings them down to a real world level. That's a rare talent to find in writing these days.",
+            "author": "Jeff Bates"
+        },
+        {
+            "text": "No problem should ever have to be solved twice.",
+            "author": "Eric S. Raymond"
+        },
+        {
+            "text": "Attitude is no substitute for competence.",
+            "author": "Eric S. Raymond"
+        },
+        {
+            "text": "It is said that the real winner is the one who lives in today but able to see tomorrow.",
+            "author": "Juan Meng"
+        },
+        {
+            "text": "Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.",
+            "author": "Alan J. Perlis"
+        },
+        {
+            "text": "A year spent in artificial intelligence is enough to make one believe in God.",
+            "author": "Alan J. Perlis"
+        },
+        {
+            "text": "Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve.",
+            "author": "Alan J. Perlis"
+        },
+        {
+            "text": "Within a computer natural language is unnatural.",
+            "author": "Alan J. Perlis"
+        },
+        {
+            "text": "You think you know when you learn, are more sure when you can write, even more when you can teach, but certain when you can program.",
+            "author": "Alan J. Perlis"
+        }
+    ]
+}
