@@ -13,6 +13,16 @@
     width: 80%;
 }
 
+#messageList{
+    background: blue;
+    color: white;
+    width: 70%;
+    border-radius: 20ch;
+    padding: 10px;
+    list-style-type: none;
+    margin-left: 2ch;
+}
+
 #textentry{
     
 
